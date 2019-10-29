@@ -1,0 +1,6 @@
+C:\Users\oscar.amezquita\Documents\Arqui Software\Spring\Client-reciever\src\main\java\com\xyz\client\Client\reciever\ClientReceiverApplication.java
+C:\Users\oscar.amezquita\Documents\Arqui Software\Spring\Client-reciever\src\main\java\com\xyz\client\Client\reciever\entities\Client.java
+C:\Users\oscar.amezquita\Documents\Arqui Software\Spring\Client-reciever\src\main\java\com\xyz\client\Client\reciever\entities\MetaClient.java
+C:\Users\oscar.amezquita\Documents\Arqui Software\Spring\Client-reciever\src\main\java\com\xyz\client\Client\reciever\messages\Receiver.java
+C:\Users\oscar.amezquita\Documents\Arqui Software\Spring\Client-reciever\src\main\java\com\xyz\client\Client\reciever\parser\MetaParser.java
+C:\Users\oscar.amezquita\Documents\Arqui Software\Spring\Client-reciever\src\main\java\com\xyz\client\Client\reciever\messages\RabbitMqConfig.java

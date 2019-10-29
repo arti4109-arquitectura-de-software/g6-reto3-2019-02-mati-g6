@@ -1,0 +1,5 @@
+com\xyz\apigateway\zuulgateway\springbootzuulgatewayproxy\filters\RouteFilter.class
+com\xyz\apigateway\zuulgateway\springbootzuulgatewayproxy\filters\ErrorFilter.class
+com\xyz\apigateway\zuulgateway\springbootzuulgatewayproxy\SpringBootZuulGatewayProxyApplication.class
+com\xyz\apigateway\zuulgateway\springbootzuulgatewayproxy\filters\PreFilter.class
+com\xyz\apigateway\zuulgateway\springbootzuulgatewayproxy\filters\PostFilter.class

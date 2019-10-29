@@ -1,0 +1,120 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "The Client Schema",
+  "required": [
+    "nombre",
+    "tipo_id",
+    "edad",
+    "fecha_nacimiento",
+    "lugar_nacimiento",
+    "nacionalidad",
+    "genero",
+    "estado_civil",
+    "direccion_residencia",
+    "lugar_residencia"
+  ],
+  "properties": {
+    "nombre": {
+      "$id": "#/properties/nombre",
+      "type": "string",
+      "title": "The Nombre Schema",
+      "default": "",
+      "examples": [
+        "Pepe Pelaez"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "tipo_id": {
+      "$id": "#/properties/tipo_id",
+      "type": "string",
+      "title": "The Tipo_id Schema",
+      "default": "",
+      "examples": [
+        "1"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "edad": {
+      "$id": "#/properties/edad",
+      "type": "integer",
+      "title": "The Edad Schema",
+      "default": 0,
+      "examples": [
+        34
+      ]
+    },
+    "fecha_nacimiento": {
+      "$id": "#/properties/fecha_nacimiento",
+      "type": "string",
+      "title": "The Fecha_nacimiento Schema",
+      "default": "",
+      "examples": [
+        "12/12/1985"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "lugar_nacimiento": {
+      "$id": "#/properties/lugar_nacimiento",
+      "type": "string",
+      "title": "The Lugar_nacimiento Schema",
+      "default": "",
+      "examples": [
+        "Zacatecas"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "nacionalidad": {
+      "$id": "#/properties/nacionalidad",
+      "type": "string",
+      "title": "The Nacionalidad Schema",
+      "default": "",
+      "examples": [
+        "Mexicano"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "genero": {
+      "$id": "#/properties/genero",
+      "type": "string",
+      "title": "The Genero Schema",
+      "default": "",
+      "examples": [
+        "Masculino"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "estado_civil": {
+      "$id": "#/properties/estado_civil",
+      "type": "string",
+      "title": "The Estado_civil Schema",
+      "default": "",
+      "examples": [
+        "Soltero"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "direccion_residencia": {
+      "$id": "#/properties/direccion_residencia",
+      "type": "string",
+      "title": "The Direccion_residencia Schema",
+      "default": "",
+      "examples": [
+        "Reformas 425, Zacatecas Mx"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "lugar_residencia": {
+      "$id": "#/properties/lugar_residencia",
+      "type": "string",
+      "title": "The Lugar_residencia Schema",
+      "default": "",
+      "examples": [
+        "Zacatecas, Mexico"
+      ],
+      "pattern": "^(.*)$"
+    }
+  }
+}

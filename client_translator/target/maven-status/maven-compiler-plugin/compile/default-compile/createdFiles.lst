@@ -1,0 +1,6 @@
+com\xyz\client\Client\reciever\entities\Client.class
+com\xyz\client\Client\reciever\ClientReceiverApplication.class
+com\xyz\client\Client\reciever\messages\Receiver.class
+com\xyz\client\Client\reciever\parser\MetaParser.class
+com\xyz\client\Client\reciever\entities\MetaClient.class
+com\xyz\client\Client\reciever\messages\RabbitMqConfig.class
