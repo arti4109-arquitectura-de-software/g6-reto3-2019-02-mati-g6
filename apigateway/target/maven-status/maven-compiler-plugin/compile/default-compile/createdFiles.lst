@@ -1,0 +1,7 @@
+com\xyz\apigateway\apigateway\adapter\package-info.class
+com\xyz\apigateway\apigateway\ApigatewayApplication.class
+com\xyz\apigateway\apigateway\adapter2XML\def\CountryRepository.class
+com\xyz\apigateway\apigateway\adapter\Error.class
+com\xyz\apigateway\apigateway\adapter\MsgError.class
+com\xyz\apigateway\apigateway\adapter\SetCustomerResponse.class
+com\xyz\apigateway\apigateway\adapter2XML\WebServiceConfig.class
